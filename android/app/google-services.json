@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964705524532",
+    "project_id": "dreamsharev4",
+    "storage_bucket": "dreamsharev4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964705524532:android:38f6992ac303dcfcaf2361",
+        "android_client_info": {
+          "package_name": "com.example.DreamshareV4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964705524532-f9opji3mccnfd656c9g3v73qrqp7j9ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9sAkUP6JEjAwOrUj-PQWxPynuerCwto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964705524532-f9opji3mccnfd656c9g3v73qrqp7j9ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
